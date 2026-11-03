@@ -1,1 +1,1 @@
-# software-journay
+# software-journey
