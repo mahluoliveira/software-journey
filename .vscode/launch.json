@@ -11,7 +11,7 @@
       "cwd": "c:/Users/mahluoliveira/Documents/software-journey/Exercícios/beecrowd",
       "program": "c:/Users/mahluoliveira/Documents/software-journey/Exercícios/beecrowd/build/Debug/outDebug",
       "MIMode": "gdb",
-      "miDebuggerPath": "C:/Users/mahluoliveira/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gdb.exe",
+      "miDebuggerPath": "gdb",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
